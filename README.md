@@ -1,5 +1,6 @@
 # Estudos em Python🐍
 Um repositório que contém meus estudos realizando exercícios resolvendo problemas na linguagem Python.<br/>
+Os exercícios foram propostos pelo Programa de Educação Tutorial (PET) do Centro de Informática (CIn) da UFPE através do curso Programe.py
 <hr/>
 
 ## Conteúdos estudados:
